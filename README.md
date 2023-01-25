@@ -60,3 +60,8 @@ To see help message, please, use `-h/--help` argument: `rss_feed_reader -h`.
 Tests are yet to be written.
 
 ***Test coverage is xx%.***
+
+## Main dependencies
+1. OpenCV
+2. PassportEye
+3. Tesseract
