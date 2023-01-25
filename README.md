@@ -42,7 +42,7 @@ module:
 To see help message, please, use `-h/--help` argument: `rss_feed_reader -h`.
 
     usage: extractor.py [FILEPATH] [--print] [--nophoto]
-                    [-h]
+                        [-h]
 
     Command-line utility to extract passport photo and data.
 
